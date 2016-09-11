@@ -5,4 +5,4 @@
 import task_03
 
 
-KLAXON = task_03.KLAXON
+KLAXON = 5 * task_03.KLAXON
