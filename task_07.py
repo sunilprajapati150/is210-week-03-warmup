@@ -5,3 +5,5 @@
 import task_06
 
 WORDS = task_06.WORDS
+GRANARIES_EXIST = WORDS.index('granaries')
+
